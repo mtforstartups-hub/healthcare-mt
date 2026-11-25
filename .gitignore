@@ -46,3 +46,6 @@ yarn-error.log*
 
 # A documented example contains key names and placeholders only.
 !/.env.example
+
+# AI agents
+opencode.json
