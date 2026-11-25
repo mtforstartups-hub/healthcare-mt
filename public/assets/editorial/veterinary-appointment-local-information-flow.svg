@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-svg desc-svg">
+<title id="title-svg">Veterinary appointment and local information flow</title>
+<desc id="desc-svg">A reliable booking state and an accurate location source. Urgent care uses a separate, practice-approved pathway</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf9"/><stop offset="1" stop-color="#eaf3f2"/></linearGradient><filter id="soft"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#330072" flood-opacity=".09"/></filter></defs>
+<rect width="1600" height="900" rx="38" fill="url(#paper)"/>
+<rect x="68" y="57" width="1464" height="789" rx="32" fill="#fff" opacity=".78"/>
+<rect x="109" y="107" width="11" height="82" rx="5" fill="#330072"/>
+<text x="144" y="142" font-family="Arial,sans-serif" font-size="39" font-weight="700" fill="#330072">Veterinary appointment and local information flow</text>
+<text x="146" y="185" font-family="Arial,sans-serif" font-size="23" fill="#506377">A reliable booking state and an accurate location source</text>
+<rect x="110" y="252" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="140" y="281" width="72" height="68" rx="19" fill="#330072"/>
+<text x="176" y="323" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">1</text>
+<text x="233" y="321" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Select</text>
+<text x="142" y="391" font-family="Arial" font-size="24" fill="#26374F">Routine service and real branch</text>
+<text x="142" y="428" font-family="Arial" font-size="21" fill="#677C8B">Species • location • date</text>
+<rect x="846" y="252" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="876" y="281" width="72" height="68" rx="19" fill="#5B53A8"/>
+<text x="912" y="323" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">2</text>
+<text x="969" y="321" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Request</text>
+<text x="878" y="391" font-family="Arial" font-size="24" fill="#26374F">Minimal data and clear next step</text>
+<text x="878" y="428" font-family="Arial" font-size="21" fill="#677C8B">Pending is not confirmed</text>
+<rect x="110" y="496" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="140" y="525" width="72" height="68" rx="19" fill="#0C8277"/>
+<text x="176" y="567" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">3</text>
+<text x="233" y="565" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Confirm</text>
+<text x="142" y="635" font-family="Arial" font-size="24" fill="#26374F">Real availability and exact address</text>
+<text x="142" y="672" font-family="Arial" font-size="21" fill="#677C8B">Accepted or alternative offered</text>
+<rect x="846" y="496" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="876" y="525" width="72" height="68" rx="19" fill="#7A56A4"/>
+<text x="912" y="567" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">4</text>
+<text x="969" y="565" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Maintain</text>
+<text x="878" y="635" font-family="Arial" font-size="24" fill="#26374F">Hours, notices and profile updates</text>
+<text x="878" y="672" font-family="Arial" font-size="21" fill="#677C8B">One owned location master</text>
+<rect x="110" y="772" width="1392" height="58" rx="17" fill="#330072"/>
+<text x="806" y="810" font-family="Arial" font-size="23" text-anchor="middle" fill="#fff">Urgent care uses a separate, practice-approved pathway</text>
+</svg>

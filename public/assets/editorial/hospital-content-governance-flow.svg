@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="svgtitle svgdesc">
+<title id="svgtitle">Hospital Content Governance</title>
+<desc id="svgdesc">Shared standards with accountable clinical, departmental and branch ownership; Urgent operational updates use a documented expedited approval path.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FCFBFE"/><stop offset="1" stop-color="#EAF3F2"/></linearGradient><filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#330072" flood-opacity="0.10"/></filter></defs>
+<rect width="1600" height="900" rx="44" fill="url(#bg)"/>
+<path d="M0 670 C300 560 480 820 780 710 S1350 610 1600 730" fill="none" stroke="#C8DBDB" stroke-width="4"/>
+<text x="80" y="116" font-size="50" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#330072">Hospital Content Governance</text>
+<text x="80" y="162" font-size="25" font-family="Arial, Helvetica, sans-serif" fill="#56627A">Shared standards with accountable clinical, departmental and branch ownership</text>
+<circle cx="143" cy="335" r="26" fill="#E8E0F5"/>
+<rect x="100" y="270" width="450" height="220" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="126" y="299" width="75" height="57" rx="16" fill="#330072"/>
+<text x="164" y="337" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">A</text>
+<text x="126" y="407" font-size="30" font-family="Arial" font-weight="700" fill="#330072">Central standards</text>
+<text x="126" y="455" font-size="23" font-family="Arial" fill="#50677C">CMS, taxonomy, roles</text>
+<circle cx="618" cy="335" r="26" fill="#E8E0F5"/>
+<rect x="575" y="270" width="450" height="220" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="601" y="299" width="75" height="57" rx="16" fill="#7350B0"/>
+<text x="639" y="337" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">B</text>
+<text x="601" y="407" font-size="30" font-family="Arial" font-weight="700" fill="#330072">Department owner</text>
+<text x="601" y="455" font-size="23" font-family="Arial" fill="#50677C">Medical wording &amp; clinicians</text>
+<circle cx="1093" cy="335" r="26" fill="#E8E0F5"/>
+<rect x="1050" y="270" width="450" height="220" rx="28" fill="#F8F4FE" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="1076" y="299" width="75" height="57" rx="16" fill="#15766E"/>
+<text x="1114" y="337" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">C</text>
+<text x="1076" y="407" font-size="30" font-family="Arial" font-weight="700" fill="#330072">Branch operations</text>
+<text x="1076" y="455" font-size="23" font-family="Arial" fill="#50677C">Hours, location &amp; access</text>
+<rect x="100" y="530" width="450" height="220" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="126" y="559" width="75" height="57" rx="16" fill="#7350B0"/>
+<text x="164" y="597" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">D</text>
+<text x="126" y="667" font-size="30" font-family="Arial" font-weight="700" fill="#330072">Qualified review</text>
+<text x="126" y="715" font-size="23" font-family="Arial" fill="#50677C">Medical and legal decisions</text>
+<rect x="575" y="530" width="450" height="220" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="601" y="559" width="75" height="57" rx="16" fill="#330072"/>
+<text x="639" y="597" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">E</text>
+<text x="601" y="667" font-size="30" font-family="Arial" font-weight="700" fill="#330072">Publisher</text>
+<text x="601" y="715" font-size="23" font-family="Arial" fill="#50677C">Version history &amp; QA</text>
+<rect x="65" y="790" width="1470" height="60" rx="18" fill="#330072"/>
+<text x="800" y="829" text-anchor="middle" font-size="22" font-family="Arial" fill="#FFFFFF">Urgent operational updates use a documented expedited approval path.</text>
+</svg>

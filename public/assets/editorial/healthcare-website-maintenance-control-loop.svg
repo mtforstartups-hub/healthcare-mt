@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img">
+<title>WEBSITE MAINTENANCE LOOP</title>
+<desc>Protect visitor access through reliable ownership and verified changes. Four sequential stages show the proposed workflow. This is a conceptual diagram, not a clinical outcome.</desc>
+<rect width="1280" height="720" fill="#F4F1EA"/>
+<rect x="28" y="28" width="1224" height="664" rx="28" fill="white" stroke="#E9E3EF" stroke-width="2"/>
+<rect x="64" y="70" width="9" height="76" rx="4" fill="#330072"/>
+<text x="96" y="99" font-size="35" font-weight="700" fill="#330072" font-family="Arial, Helvetica, sans-serif">WEBSITE MAINTENANCE LOOP</text>
+<text x="96" y="134" font-size="20" fill="#53606D" font-family="Arial, Helvetica, sans-serif">Protect visitor access through reliable ownership and verified changes</text>
+<rect x="65" y="250" width="278" height="275" rx="20" fill="#F2ECFA" stroke="#DFD6E8"/>
+<circle cx="110" cy="300" r="24" fill="#330072"/>
+<text x="110" y="307" font-size="17" text-anchor="middle" font-weight="700" fill="white" font-family="Arial, Helvetica, sans-serif">01</text>
+<text x="86" y="364" font-size="21" font-weight="700" fill="#330072" font-family="Arial, Helvetica, sans-serif">Inventory + control</text>
+<text x="86" y="408" font-size="17" fill="#384752" font-family="Arial, Helvetica, sans-serif">Domain, CMS, vendors and owners</text>
+<path d="M 346 390 l 18 0 m -9 -9 l 9 9 l -9 9" stroke="#330072" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="367" y="250" width="278" height="275" rx="20" fill="#EAF3F2" stroke="#DFD6E8"/>
+<circle cx="412" cy="300" r="24" fill="#330072"/>
+<text x="412" y="307" font-size="17" text-anchor="middle" font-weight="700" fill="white" font-family="Arial, Helvetica, sans-serif">02</text>
+<text x="388" y="364" font-size="21" font-weight="700" fill="#330072" font-family="Arial, Helvetica, sans-serif">Monitor + triage</text>
+<text x="388" y="408" font-size="17" fill="#384752" font-family="Arial, Helvetica, sans-serif">Forms, content, uptime and search</text>
+<path d="M 648 390 l 18 0 m -9 -9 l 9 9 l -9 9" stroke="#330072" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="669" y="250" width="278" height="275" rx="20" fill="#F8F3EA" stroke="#DFD6E8"/>
+<circle cx="714" cy="300" r="24" fill="#330072"/>
+<text x="714" y="307" font-size="17" text-anchor="middle" font-weight="700" fill="white" font-family="Arial, Helvetica, sans-serif">03</text>
+<text x="690" y="364" font-size="21" font-weight="700" fill="#330072" font-family="Arial, Helvetica, sans-serif">Patch + publish</text>
+<text x="690" y="408" font-size="17" fill="#384752" font-family="Arial, Helvetica, sans-serif">Staging, approval and rollback</text>
+<path d="M 950 390 l 18 0 m -9 -9 l 9 9 l -9 9" stroke="#330072" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="971" y="250" width="278" height="275" rx="20" fill="#F2ECFA" stroke="#DFD6E8"/>
+<circle cx="1016" cy="300" r="24" fill="#330072"/>
+<text x="1016" y="307" font-size="17" text-anchor="middle" font-weight="700" fill="white" font-family="Arial, Helvetica, sans-serif">04</text>
+<text x="992" y="364" font-size="21" font-weight="700" fill="#330072" font-family="Arial, Helvetica, sans-serif">Restore + learn</text>
+<text x="992" y="408" font-size="17" fill="#384752" font-family="Arial, Helvetica, sans-serif">Evidence, backups and periodic drills</text>
+<rect x="65" y="564" width="1150" height="72" rx="14" fill="#330072"/>
+<text x="90" y="598" font-size="18" fill="white" font-family="Arial, Helvetica, sans-serif">MARKETING TUSK HEALTHCARE  |  DIGITAL PRESENCE · CREDIBILITY · EXPERIENCE</text>
+<text x="90" y="622" font-size="15" fill="#E6D9F5" font-family="Arial, Helvetica, sans-serif">Original editorial illustration · Representative workflow only</text>
+</svg>

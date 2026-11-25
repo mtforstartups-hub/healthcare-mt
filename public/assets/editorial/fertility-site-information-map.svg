@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="svgtitle svgdesc">
+<title id="svgtitle">Fertility Website Information Map</title>
+<desc id="svgdesc">A public-first route to verified information and discreet administrative access; A general website does not replace clinical counselling or informed consent.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FCFBFE"/><stop offset="1" stop-color="#EAF3F2"/></linearGradient><filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#330072" flood-opacity="0.10"/></filter></defs>
+<rect width="1600" height="900" rx="44" fill="url(#bg)"/>
+<path d="M0 670 C300 560 480 820 780 710 S1350 610 1600 730" fill="none" stroke="#C8DBDB" stroke-width="4"/>
+<text x="80" y="116" font-size="50" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#330072">Fertility Website Information Map</text>
+<text x="80" y="162" font-size="25" font-family="Arial, Helvetica, sans-serif" fill="#56627A">A public-first route to verified information and discreet administrative access</text>
+<path d="M 347 455 H 366" stroke="#8464C2" stroke-width="7" stroke-linecap="round"/><path d="M 362 440 L 377 455 L 362 470" fill="none" stroke="#8464C2" stroke-width="6"/>
+<rect x="56" y="300" width="290" height="310" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="82" y="329" width="75" height="57" rx="16" fill="#330072"/>
+<text x="120" y="367" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">01</text>
+<text x="82" y="437" font-size="26" font-family="Arial" font-weight="700" fill="#330072">Institution</text>
+<text x="82" y="485" font-size="20" font-family="Arial" fill="#50677C">Name, facility identity</text>
+<path d="M 657 455 H 676" stroke="#8464C2" stroke-width="7" stroke-linecap="round"/><path d="M 672 440 L 687 455 L 672 470" fill="none" stroke="#8464C2" stroke-width="6"/>
+<rect x="366" y="300" width="290" height="310" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="392" y="329" width="75" height="57" rx="16" fill="#7350B0"/>
+<text x="430" y="367" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">02</text>
+<text x="392" y="437" font-size="26" font-family="Arial" font-weight="700" fill="#330072">Clinical team</text>
+<text x="392" y="485" font-size="20" font-family="Arial" fill="#50677C">Verified roles &amp; locations</text>
+<path d="M 967 455 H 986" stroke="#8464C2" stroke-width="7" stroke-linecap="round"/><path d="M 982 440 L 997 455 L 982 470" fill="none" stroke="#8464C2" stroke-width="6"/>
+<rect x="676" y="300" width="290" height="310" rx="28" fill="#F8F4FE" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="702" y="329" width="75" height="57" rx="16" fill="#15766E"/>
+<text x="740" y="367" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">03</text>
+<text x="702" y="437" font-size="26" font-family="Arial" font-weight="700" fill="#330072">Care information</text>
+<text x="702" y="485" font-size="20" font-family="Arial" fill="#50677C">Balanced explanations</text>
+<path d="M 1277 455 H 1296" stroke="#8464C2" stroke-width="7" stroke-linecap="round"/><path d="M 1292 440 L 1307 455 L 1292 470" fill="none" stroke="#8464C2" stroke-width="6"/>
+<rect x="986" y="300" width="290" height="310" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="1012" y="329" width="75" height="57" rx="16" fill="#7350B0"/>
+<text x="1050" y="367" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">04</text>
+<text x="1012" y="437" font-size="26" font-family="Arial" font-weight="700" fill="#330072">Branch access</text>
+<text x="1012" y="485" font-size="20" font-family="Arial" fill="#50677C">Actual availability</text>
+<rect x="1296" y="300" width="290" height="310" rx="28" fill="#FFFFFF" stroke="#DFD4EE" stroke-width="2" filter="url(#sh)"/>
+<rect x="1322" y="329" width="75" height="57" rx="16" fill="#330072"/>
+<text x="1360" y="367" text-anchor="middle" font-size="25" font-family="Arial" font-weight="700" fill="#FFFFFF">05</text>
+<text x="1322" y="437" font-size="26" font-family="Arial" font-weight="700" fill="#330072">Contact</text>
+<text x="1322" y="485" font-size="20" font-family="Arial" fill="#50677C">Minimal enquiry fields</text>
+<rect x="65" y="790" width="1470" height="60" rx="18" fill="#330072"/>
+<text x="800" y="829" text-anchor="middle" font-size="22" font-family="Arial" fill="#FFFFFF">A general website does not replace clinical counselling or informed consent.</text>
+</svg>

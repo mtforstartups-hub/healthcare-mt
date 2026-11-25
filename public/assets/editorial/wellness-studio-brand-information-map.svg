@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="ti de">
+<title id="ti">Wellness studio: trustworthy information</title>
+<desc id="de">The brand system should express the actual nonmedical experience. Brand clarity does not establish therapeutic outcomes</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf7"/><stop offset="1" stop-color="#eaf3f2"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="7" stdDeviation="13" flood-color="#330072" flood-opacity=".07"/></filter></defs>
+<rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+<rect x="70" y="53" width="1460" height="790" rx="30" fill="white" opacity=".75"/>
+<rect x="110" y="99" width="11" height="90" rx="5" fill="#330072"/>
+<text x="143" y="137" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#330072">Wellness studio: trustworthy information</text>
+<text x="145" y="184" font-family="Arial,sans-serif" font-size="25" fill="#69788C">The brand system should express the actual nonmedical experience</text>
+<rect x="115" y="259" width="665" height="210" rx="26" fill="#fff" stroke="#E7E2ED" stroke-width="2" filter="url(#sh)"/>
+<rect x="145" y="289" width="70" height="64" rx="19" fill="#330072"/>
+<text x="180" y="331" fill="#fff" font-family="Arial" font-size="24" font-weight="700" text-anchor="middle">1</text>
+<text x="237" y="327" fill="#330072" font-family="Arial" font-size="29" font-weight="700">Identity</text>
+<text x="149" y="392" fill="#253550" font-family="Arial" font-size="24">Name, location and studio style</text>
+<text x="149" y="433" fill="#69788C" font-family="Arial" font-size="22">Consistent across all channels</text>
+<rect x="848" y="259" width="665" height="210" rx="26" fill="#fff" stroke="#E7E2ED" stroke-width="2" filter="url(#sh)"/>
+<rect x="878" y="289" width="70" height="64" rx="19" fill="#6559B2"/>
+<text x="913" y="331" fill="#fff" font-family="Arial" font-size="24" font-weight="700" text-anchor="middle">2</text>
+<text x="970" y="327" fill="#330072" font-family="Arial" font-size="29" font-weight="700">Instructors</text>
+<text x="882" y="392" fill="#253550" font-family="Arial" font-size="24">Role and qualifications</text>
+<text x="882" y="433" fill="#69788C" font-family="Arial" font-size="22">Verifiable and scoped</text>
+<rect x="115" y="503" width="665" height="210" rx="26" fill="#fff" stroke="#E7E2ED" stroke-width="2" filter="url(#sh)"/>
+<rect x="145" y="533" width="70" height="64" rx="19" fill="#087F74"/>
+<text x="180" y="575" fill="#fff" font-family="Arial" font-size="24" font-weight="700" text-anchor="middle">3</text>
+<text x="237" y="571" fill="#330072" font-family="Arial" font-size="29" font-weight="700">Classes</text>
+<text x="149" y="636" fill="#253550" font-family="Arial" font-size="24">Format, level and equipment</text>
+<text x="149" y="677" fill="#69788C" font-family="Arial" font-size="22">Current service catalogue</text>
+<rect x="848" y="503" width="665" height="210" rx="26" fill="#fff" stroke="#E7E2ED" stroke-width="2" filter="url(#sh)"/>
+<rect x="878" y="533" width="70" height="64" rx="19" fill="#8651A3"/>
+<text x="913" y="575" fill="#fff" font-family="Arial" font-size="24" font-weight="700" text-anchor="middle">4</text>
+<text x="970" y="571" fill="#330072" font-family="Arial" font-size="29" font-weight="700">Access</text>
+<text x="882" y="636" fill="#253550" font-family="Arial" font-size="24">Prices, times and joining</text>
+<text x="882" y="677" fill="#69788C" font-family="Arial" font-size="22">Clear next action</text>
+<rect x="115" y="775" width="1370" height="54" rx="16" fill="#330072"/>
+<text x="800" y="810" fill="#fff" font-family="Arial" font-size="24" text-anchor="middle">Brand clarity does not establish therapeutic outcomes</text>
+</svg>

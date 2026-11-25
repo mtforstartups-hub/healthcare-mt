@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-svg desc-svg">
+<title id="title-svg">Specialist clinic information architecture</title>
+<desc id="desc-svg">Separate verified qualifications from clinical procedures and sites. Specialist and legal review before public communications</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf9"/><stop offset="1" stop-color="#eaf3f2"/></linearGradient><filter id="soft"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#330072" flood-opacity=".09"/></filter></defs>
+<rect width="1600" height="900" rx="38" fill="url(#paper)"/>
+<rect x="68" y="57" width="1464" height="789" rx="32" fill="#fff" opacity=".78"/>
+<rect x="109" y="107" width="11" height="82" rx="5" fill="#330072"/>
+<text x="144" y="142" font-family="Arial,sans-serif" font-size="39" font-weight="700" fill="#330072">Specialist clinic information architecture</text>
+<text x="146" y="185" font-family="Arial,sans-serif" font-size="23" fill="#506377">Separate verified qualifications from clinical procedures and sites</text>
+<rect x="110" y="252" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="140" y="281" width="72" height="68" rx="19" fill="#330072"/>
+<text x="176" y="323" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">A</text>
+<text x="233" y="321" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Practitioner</text>
+<text x="142" y="391" font-family="Arial" font-size="24" fill="#26374F">Qualification and registration details</text>
+<text x="142" y="428" font-family="Arial" font-size="21" fill="#677C8B">Verified • correct • current</text>
+<rect x="846" y="252" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="876" y="281" width="72" height="68" rx="19" fill="#5B53A8"/>
+<text x="912" y="323" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">B</text>
+<text x="969" y="321" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Consultation</text>
+<text x="878" y="391" font-family="Arial" font-size="24" fill="#26374F">Assessment and outpatient access</text>
+<text x="878" y="428" font-family="Arial" font-size="21" fill="#677C8B">True location and hours</text>
+<rect x="110" y="496" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="140" y="525" width="72" height="68" rx="19" fill="#0C8277"/>
+<text x="176" y="567" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">C</text>
+<text x="233" y="565" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Procedures</text>
+<text x="142" y="635" font-family="Arial" font-size="24" fill="#26374F">Balanced, clinician-reviewed facts</text>
+<text x="142" y="672" font-family="Arial" font-size="21" fill="#677C8B">No outcome guarantees</text>
+<rect x="846" y="496" width="670" height="209" rx="24" fill="#fff" stroke="#E7DEEF" stroke-width="2" filter="url(#soft)"/>
+<rect x="876" y="525" width="72" height="68" rx="19" fill="#7A56A4"/>
+<text x="912" y="567" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle" font-weight="700">D</text>
+<text x="969" y="565" font-family="Arial" font-weight="700" font-size="29" fill="#330072">Facilities</text>
+<text x="878" y="635" font-family="Arial" font-size="24" fill="#26374F">Clinic versus external hospital</text>
+<text x="878" y="672" font-family="Arial" font-size="21" fill="#677C8B">Role and relationship clear</text>
+<rect x="110" y="772" width="1392" height="58" rx="17" fill="#330072"/>
+<text x="806" y="810" font-family="Arial" font-size="23" text-anchor="middle" fill="#fff">Specialist and legal review before public communications</text>
+</svg>

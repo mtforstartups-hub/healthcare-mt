@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="heading description">
+<title id="heading">Homeopathy claims: evidence and decision log</title>
+<desc id="description">Review wording, surrounding visuals, source quality and potential impact. No blanket cure promises  •  Do not discourage evidence-based care</desc>
+<defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#EAF3F2"/></linearGradient><filter id="shadow" x="-20%" y="-20%" width="150%" height="170%"><feDropShadow dx="0" dy="11" stdDeviation="15" flood-color="#330072" flood-opacity=".10"/></filter></defs>
+<rect width="1600" height="900" fill="url(#background)" rx="45"/>
+<rect x="60" y="60" width="1480" height="785" rx="38" fill="#FFFFFF" opacity=".68"/>
+<rect x="88" y="88" width="14" height="90" rx="7" fill="#330072"/>
+<text x="128" y="130" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#330072">Homeopathy claims: evidence and decision log</text>
+<text x="128" y="172" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#526077">Review wording, surrounding visuals, source quality and potential impact.</text>
+<rect x="75" y="290" width="280" height="360" rx="30" fill="#FFFFFF" stroke="#E7DFEF" stroke-width="2" filter="url(#shadow)"/>
+<rect x="100" y="315" width="58" height="54" rx="16" fill="#330072"/>
+<text x="129" y="350" font-family="Arial" font-size="23" font-weight="700" fill="white" text-anchor="middle">01</text>
+<text x="98" y="420" font-family="Arial" font-size="30" font-weight="700" fill="#330072">Inventory</text>
+<text x="98" y="476" font-family="Arial" font-size="23" fill="#1B2340">Exact URL and</text>
+<text x="98" y="509" font-family="Arial" font-size="23" fill="#1B2340">context</text>
+<text x="98" y="565" font-family="Arial" font-size="21" fill="#526077">Capture all public</text>
+<text x="98" y="594" font-family="Arial" font-size="21" fill="#526077">versions</text>
+<path d="M 358 470 h 21" stroke="#7458A8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 370 458 l 12 12 -12 12" fill="none" stroke="#7458A8" stroke-width="5"/>
+<rect x="378" y="290" width="280" height="360" rx="30" fill="#FFFFFF" stroke="#E7DFEF" stroke-width="2" filter="url(#shadow)"/>
+<rect x="403" y="315" width="58" height="54" rx="16" fill="#7458A8"/>
+<text x="432" y="350" font-family="Arial" font-size="23" font-weight="700" fill="white" text-anchor="middle">02</text>
+<text x="401" y="420" font-family="Arial" font-size="30" font-weight="700" fill="#330072">Classify</text>
+<text x="401" y="476" font-family="Arial" font-size="23" fill="#1B2340">Nature of the</text>
+<text x="401" y="509" font-family="Arial" font-size="23" fill="#1B2340">claim</text>
+<text x="401" y="565" font-family="Arial" font-size="21" fill="#526077">Efficacy / safety</text>
+<text x="401" y="594" font-family="Arial" font-size="21" fill="#526077">/ testimonial</text>
+<path d="M 661 470 h 21" stroke="#7458A8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 673 458 l 12 12 -12 12" fill="none" stroke="#7458A8" stroke-width="5"/>
+<rect x="681" y="290" width="280" height="360" rx="30" fill="#FFFFFF" stroke="#E7DFEF" stroke-width="2" filter="url(#shadow)"/>
+<rect x="706" y="315" width="58" height="54" rx="16" fill="#157B73"/>
+<text x="735" y="350" font-family="Arial" font-size="23" font-weight="700" fill="white" text-anchor="middle">03</text>
+<text x="704" y="420" font-family="Arial" font-size="30" font-weight="700" fill="#330072">Verify</text>
+<text x="704" y="476" font-family="Arial" font-size="23" fill="#1B2340">Scientific source</text>
+<text x="704" y="509" font-family="Arial" font-size="23" fill="#1B2340">and law</text>
+<text x="704" y="565" font-family="Arial" font-size="21" fill="#526077">Support must match</text>
+<text x="704" y="594" font-family="Arial" font-size="21" fill="#526077">wording</text>
+<path d="M 964 470 h 21" stroke="#7458A8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 976 458 l 12 12 -12 12" fill="none" stroke="#7458A8" stroke-width="5"/>
+<rect x="984" y="290" width="280" height="360" rx="30" fill="#FFFFFF" stroke="#E7DFEF" stroke-width="2" filter="url(#shadow)"/>
+<rect x="1009" y="315" width="58" height="54" rx="16" fill="#5568AA"/>
+<text x="1038" y="350" font-family="Arial" font-size="23" font-weight="700" fill="white" text-anchor="middle">04</text>
+<text x="1007" y="420" font-family="Arial" font-size="30" font-weight="700" fill="#330072">Decide</text>
+<text x="1007" y="476" font-family="Arial" font-size="23" fill="#1B2340">Retain, revise or</text>
+<text x="1007" y="509" font-family="Arial" font-size="23" fill="#1B2340">remove</text>
+<text x="1007" y="565" font-family="Arial" font-size="21" fill="#526077">Named qualified</text>
+<text x="1007" y="594" font-family="Arial" font-size="21" fill="#526077">reviewer</text>
+<path d="M 1267 470 h 21" stroke="#7458A8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 1279 458 l 12 12 -12 12" fill="none" stroke="#7458A8" stroke-width="5"/>
+<rect x="1287" y="290" width="280" height="360" rx="30" fill="#FFFFFF" stroke="#E7DFEF" stroke-width="2" filter="url(#shadow)"/>
+<rect x="1312" y="315" width="58" height="54" rx="16" fill="#330072"/>
+<text x="1341" y="350" font-family="Arial" font-size="23" font-weight="700" fill="white" text-anchor="middle">05</text>
+<text x="1310" y="420" font-family="Arial" font-size="30" font-weight="700" fill="#330072">Recheck</text>
+<text x="1310" y="476" font-family="Arial" font-size="23" fill="#1B2340">Derived copies</text>
+<text x="1310" y="509" font-family="Arial" font-size="23" fill="#1B2340">and metadata</text>
+<text x="1310" y="565" font-family="Arial" font-size="21" fill="#526077">Confirm public</text>
+<text x="1310" y="594" font-family="Arial" font-size="21" fill="#526077">correction</text>
+<rect x="97" y="784" width="1406" height="49" rx="17" fill="#330072"/>
+<text x="800" y="816" font-family="Arial" font-size="22" fill="white" text-anchor="middle">No blanket cure promises  •  Do not discourage evidence-based care</text>
+</svg>

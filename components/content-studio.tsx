@@ -1,0 +1,19 @@
+'use client';
+import {useEffect,useState} from 'react';
+import type {Editorial,Block} from '../lib/editorial';
+const fields={title:'Page title',summary:'Directory summary',seoTitle:'Search title',seoDescription:'Search description',answer:'Opening answer'} as const;
+export default function ContentStudio(){
+ const [items,setItems]=useState<Pick<Editorial,'path'|'title'|'kind'>[]>([]),[query,setQuery]=useState(''),[item,setItem]=useState<Editorial|null>(null),[revision,setRevision]=useState(0),[status,setStatus]=useState(''),[busy,setBusy]=useState(false);
+ async function request(url:string,options?:RequestInit){const r=await fetch(url,{...options,cache:'no-store'});const j=await r.json() as any;if(!r.ok)throw Error(j.error);return j}
+ useEffect(()=>{request('/api/studio/content').then(d=>setItems(d.items)).catch(e=>setStatus(e.message))},[]);
+ async function open(path:string){setBusy(true);try{const d=await request('/api/studio/content?path='+encodeURIComponent(path));setItem(d.item);setRevision(d.revision);setStatus(d.hidden?'Hidden from the public site.':d.hasDraft?'Unpublished edits saved.':'Published.')}catch(e){setStatus(String(e))}finally{setBusy(false)}}
+ async function save(action:string){if(!item)return;setBusy(true);try{const d=await request('/api/studio/content',{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({path:item.path,action,item,revision})});setRevision(d.revision);setStatus(action==='draft'?'Draft saved. The public copy is unchanged.':action==='hide'?'Hidden from the public site.':'Published.');if(action==='publish')setItems(a=>a.map(p=>p.path===item.path?{...p,title:item.title}:p))}catch(e){setStatus(String(e))}finally{setBusy(false)}}
+ function blocks(next:Block[]){setItem(p=>p?{...p,blocks:next}:p)}
+ return <main id="main" className="studio-shell"><div className="container"><p><a href="/studio">← Enquiry inbox</a></p><h1>Content manager</h1>
+ <div className="cms-layout"><aside><label>Find content<input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search title or type"/></label>
+ <ul>{items.filter(x=>(x.title+' '+x.kind).toLowerCase().includes(query.trim().toLowerCase())).map(p=><li key={p.path}><button disabled={busy} aria-current={item?.path===p.path?'true':undefined} onClick={()=>open(p.path)}>{p.title}<small>{p.kind}</small></button></li>)}</ul></aside>
+ <section><p role="status">{status}</p>{item?<><p><a href={item.path}>Open public page</a></p>{Object.entries(fields).map(([key,label])=><label key={key}>{label}<textarea rows={key==='answer'?5:2} value={item[key as keyof typeof fields]} onChange={e=>setItem({...item,[key]:e.target.value})}/></label>)}
+ <h2>Content blocks</h2>{item.blocks.map((b,i)=><div className="cms-block" key={i}>{b.type==='image'?<p>Image: {b.alt}</p>:<><label>{b.type==='bullets'?'Bullet list (one per line)':b.type}<textarea rows={b.type.includes('heading')?2:4} value={b.type==='bullets'?b.items?.join('\n'):b.text} onChange={e=>blocks(item.blocks.map((x,j)=>j===i?(b.type==='bullets'?{...b,items:e.target.value.split('\n')}:{...b,text:e.target.value}):x))}/></label><button onClick={()=>blocks(item.blocks.filter((_,j)=>j!==i))}>Remove block</button></>}</div>)}
+ <div className="button-row">{['heading','paragraph','bullets'].map(type=><button key={type} className="button secondary" onClick={()=>blocks([...item.blocks,type==='bullets'?{type,items:['']}:{type,text:''}])}>Add {type}</button>)}</div>
+ <div className="button-row cms-save"><button disabled={busy} className="button secondary" onClick={()=>save('draft')}>Save draft</button><button disabled={busy} className="button primary" onClick={()=>save('publish')}>Publish changes</button><button disabled={busy} className="button secondary" onClick={()=>save('hide')}>Hide page</button></div></>:<p>Select a guide, answer or field note to edit it.</p>}</section></div></div></main>
+}

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img">
+<title>Hospital website: three visitor routes</title>
+<desc>Keep urgent help, planned care and visit logistics distinct.</desc>
+<rect x="0" y="0" width="1280" height="720" rx="0" fill="#F4F1EA" stroke="none" stroke-width="1"/>
+<rect x="24" y="24" width="1232" height="672" rx="30" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="48" y="48" width="1184" height="12" rx="5" fill="#330072" stroke="none" stroke-width="1"/>
+<text x="70" y="111" fill="#330072" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">MARKETING TUSK / HEALTHCARE</text>
+<text x="70" y="165" fill="#1E2141" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">Hospital website: three visitor routes</text>
+<text x="70" y="204" fill="#506079" font-size="19" font-family="Arial, Helvetica, sans-serif" font-weight="500" text-anchor="start">Keep urgent help, planned care and visit logistics distinct.</text>
+<rect x="70" y="655" width="1140" height="1" rx="0" fill="#D8D9E3" stroke="none" stroke-width="1"/>
+<text x="74" y="684" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="500" text-anchor="start">Digital Presence · Credibility · Experience</text>
+<text x="1208" y="684" fill="#506079" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="end">Conceptual framework</text>
+<rect x="70" y="251" width="1140" height="77" rx="22" fill="#330072" stroke="none" stroke-width="1"/>
+<text x="100" y="299" fill="#FFFFFF" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">One governed hospital information system</text>
+<text x="1172" y="296" fill="#FFFFFF" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="500" text-anchor="end">Department · Doctor · Campus records</text>
+<rect x="70" y="370" width="356" height="203" rx="22" fill="#FBEFE9" stroke="#DAD9E5" stroke-width="1"/>
+<rect x="87" y="389" width="43" height="43" rx="12" fill="#330072" stroke="none" stroke-width="1"/>
+<text x="108" y="419" fill="#FFFFFF" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">1</text>
+<text x="87" y="463" fill="#1E2141" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">Urgent help</text>
+<text x="87" y="494" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Verified emergency contact</text>
+<text x="87" y="521" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Arrival information</text>
+<path d="M250 330 L250 364" fill="none" stroke="#198E8D" stroke-width="3" stroke-linecap="round" /><path d="M239 358 L250 364 L239 370" fill="none" stroke="#198E8D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="462" y="370" width="356" height="203" rx="22" fill="#EAF3F2" stroke="#DAD9E5" stroke-width="1"/>
+<rect x="479" y="389" width="43" height="43" rx="12" fill="#330072" stroke="none" stroke-width="1"/>
+<text x="500" y="419" fill="#FFFFFF" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">2</text>
+<text x="479" y="463" fill="#1E2141" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">Planned care</text>
+<text x="479" y="494" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Find department and doctor</text>
+<text x="479" y="521" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Request an appointment</text>
+<path d="M642 330 L642 364" fill="none" stroke="#198E8D" stroke-width="3" stroke-linecap="round" /><path d="M631 358 L642 364 L631 370" fill="none" stroke="#198E8D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="854" y="370" width="356" height="203" rx="22" fill="#F2E8FF" stroke="#DAD9E5" stroke-width="1"/>
+<rect x="871" y="389" width="43" height="43" rx="12" fill="#330072" stroke="none" stroke-width="1"/>
+<text x="892" y="419" fill="#FFFFFF" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">3</text>
+<text x="871" y="463" fill="#1E2141" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">Plan a visit</text>
+<text x="871" y="494" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Campus, entrance, policies</text>
+<text x="871" y="521" fill="#506079" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Accessibility and languages</text>
+<path d="M1034 330 L1034 364" fill="none" stroke="#198E8D" stroke-width="3" stroke-linecap="round" /><path d="M1023 358 L1034 364 L1023 370" fill="none" stroke="#198E8D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<text x="75" y="615" fill="#330072" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">Owner checks</text>
+<text x="204" y="615" fill="#506079" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="500" text-anchor="start">Emergency admin · Department owners · Patient access · Digital publishing</text>
+</svg>
