@@ -36,7 +36,10 @@ export async function GET(request:Request){
   const identity=await verifyIdToken(idToken,client.id);
   if(!isAllowedEmail(identity.email))return fail(origin,'domain');
   const response=redirect(origin+(requestedPath(state)??'/studio'));
-  response.headers.append('Set-Cookie',`${SESSION_COOKIE}=${issueSession(identity.email)}; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=${SESSION_MAX_AGE/1000}`);
+  // SameSite must stay Lax: the redirect back from Google is a cross-site
+  // navigation, and Strict would withhold the new cookie on the first request
+  // to /studio, showing the sign-in page until a manual refresh.
+  response.headers.append('Set-Cookie',`${SESSION_COOKIE}=${issueSession(identity.email)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=${SESSION_MAX_AGE/1000}`);
   response.headers.append('Set-Cookie',clear(STATE_COOKIE));
   response.headers.append('Set-Cookie',clear(VERIFIER_COOKIE));
   return response;
